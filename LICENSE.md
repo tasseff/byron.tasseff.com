@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2016 Byron Tasseff
 Copyright (c) 2016 Leonard Lamprecht
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

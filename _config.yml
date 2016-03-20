@@ -1,10 +1,10 @@
 # General
-name: Leonard Lamprecht
-description: A teenagers view on web development and intuitive UI design.
-url: http://leo.im
+name: Byron Tasseff
+description: Personal website of Byron Tasseff.
+url: http://tasseff.com
 
 # Build
 sass:
   style: :compressed
 
-exclude: ['_posts', 'Gemfile*', 'CNAME', '*.md']
+exclude: ['Gemfile*', '*.md']
