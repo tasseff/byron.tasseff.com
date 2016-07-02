@@ -1,5 +1,7 @@
 # tasseff.com
 
+[![Build Status](https://travis-ci.org/tasseff/tasseff.com.svg?branch=master)](https://travis-ci.org/tasseff/tasseff.com)
+
 Clone it
 
 ```sh
