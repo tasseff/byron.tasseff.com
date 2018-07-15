@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 Byron Tasseff
+Copyright (c) 2018 Byron Tasseff
 
 Copyright (c) 2016 Leonard Lamprecht
 
